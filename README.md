@@ -2,7 +2,7 @@
 
 ## Live Site : https://bloodysweet.netlify.app/
 
-The Fan Page is a website dedicated to celebrating and honoring Actor Vijay. Built using the Bootstrap framework, this fan page offers a visually appealing and responsive design that allows fans to engage with the content and connect with fellow enthusiasts.
+I started learning Bootstrap and did this page which showcase my talent about recent learning .The Fan Page is a website dedicated to celebrating and honoring Actor Vijay. Built using the Bootstrap framework, this fan page offers a visually appealing and responsive design that allows fans to engage with the content and connect with fellow enthusiasts.
 
 ## Feature
 1. Responsive Design: The fan page is designed to provide an optimal viewing experience across different devices and screen sizes. It automatically adjusts its layout and content to ensure seamless navigation and readability.
